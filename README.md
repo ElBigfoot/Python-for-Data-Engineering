@@ -1,5 +1,5 @@
 # Python-for-Data-Engineering
-Darhill Parmar Python for Data Engineer Course
+Darhill Parmar Python for Data Engineer Course using Jupyter, Google Colab and Spyder IDE
 
 ## Python for Data Engineering
 This repo contains all the code used in the [Python for Data Engineering Course](https://learn.datawithdarshil.com/courses/Python-for-Data-Engineering-63dbd4e2e4b04e40a25e4445)
