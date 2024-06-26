@@ -12,3 +12,11 @@ Get right into it, don't waste time learning basics, and execute the complete pr
 Work on Python Data Analysis project on iPhone Apple Dataset, do some basic transformation and analysis.
 Jupyter Lab on the Cloud.
 Spyder IDE on my own machine.
+## Module 2: [Python Basics](https://github.com/darshilparmar/python-for-data-engineering/tree/main/2.%20Python%20Basics)
+Build strong programming fundamentals by learning the basics of python
+* Working with Strings
+* Working with Numbers
+* Understanding DataTypes
+* Python Data Structures (List, Dictionary, Sets, Tuples)
+* Working with Loops (For & While)
+* Conditional Statements (IF-ELSE
